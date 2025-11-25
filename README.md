@@ -21,6 +21,24 @@ Um modelo simples e direto para controle de estoque, ideal para pequenos negóci
 
 ---
 
+📊 Projeto Adicionado: Tabela Dinâmica em Excel
+
+Arquivo: Tabela-dinamica-criada.xlsx
+
+Este arquivo demonstra a criação de uma tabela dinâmica no Excel, contendo:
+
+Organização e resumo de dados
+
+Filtros
+
+Análise de valores
+
+Estrutura para prática de relatórios e dashboards
+
+Pode ser utilizado como exemplo prático e material de estudo para quem está aprendendo Excel.
+
+---
+
 ## 📜 Objetivo do Repositório
 Este repositório tem como objetivo centralizar meus projetos práticos, permitindo que sejam compartilhados, atualizados e evoluídos com o tempo.
 
