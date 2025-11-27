@@ -39,6 +39,48 @@ Pode ser utilizado como exemplo prático e material de estudo para quem está ap
 
 ---
 
+📊 Gráfico Dinâmico – Excel
+
+Este repositório contém o arquivo Grafico-Dinamico.xlsx, desenvolvido para demonstrar a criação e utilização de gráficos dinâmicos no Excel, permitindo uma visualização clara, rápida e interativa de dados.
+
+🔍 Sobre o Projeto
+
+O arquivo apresenta:
+
+Uso de Tabelas Dinâmicas para organizar e filtrar informações.
+
+Criação de Gráficos Dinâmicos conectados às tabelas.
+
+Possibilidade de segmentação de dados (Slicers) para navegação rápida.
+
+Visualização automática conforme filtros e seleções são alterados.
+
+Esse modelo é ideal para estudos, apresentações, dashboards simples e análises rápidas de dados.
+
+📁 Arquivo incluído
+
+Grafico-Dinamico.xlsx
+Contém tabela dinâmica, gráfico dinâmico e estrutura de controle de dados.
+
+🛠️ Como usar
+
+Abra o arquivo no Microsoft Excel (versão 2016 ou superior recomendada).
+
+Navegue pelos dados na tabela.
+
+Utilize os filtros para atualizar o gráfico automaticamente.
+
+Personalize conforme necessidade (cores, tipos de gráfico, campos, etc.).
+
+📥 Requisitos
+
+Microsoft Excel (Windows ou Mac)
+
+Habilitação de conteúdo dinâmico (se solicitado)
+
+
+---
+
 ## 📜 Objetivo do Repositório
 Este repositório tem como objetivo centralizar meus projetos práticos, permitindo que sejam compartilhados, atualizados e evoluídos com o tempo.
 
